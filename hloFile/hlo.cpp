@@ -22,7 +22,7 @@ using namespace std;    //  tells the compiler to use standard namespace by defa
 
 int main(){
     // whenever we give exe file to the OS the main method is the method from which OS starts executing the file
-    cout << "hlo wassup bye bye kk \n";     // << means passing on a val to cout
+    cout << "hlo wassup bye bye kk \n";     // << means passing on a val to cout \n is for change line
     cout << "wow" << endl;  // endl -> (std::endl) -> end line
     return 0;   
 
